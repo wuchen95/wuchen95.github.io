@@ -1,8 +1,8 @@
-## wuchen
+## HELLO,
 
-I am wuchen from ...
+I am now a Ph.D. student at Institude of Computing Technology, Chinese Academy of Sciences, supervised by [Prof. Jiafeng Guo](http://www.bigdatalab.ac.cn/~gjf/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
