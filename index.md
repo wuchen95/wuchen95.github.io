@@ -1,6 +1,6 @@
 ## HELLO,
 
-I am now a Ph.D. student at Institude of Computing Technology, Chinese Academy of Sciences, supervised by [Prof. Jiafeng Guo](http://www.bigdatalab.ac.cn/~gjf/).
+I am now a Ph.D. student at Institude of Computing Technology, Chinese Academy of Sciences
 
 ![image](https://github.com/wuchen95/wuchen95.github.io/blob/master/IMG_2280.JPG)
 
