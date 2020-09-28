@@ -1,2 +1,3 @@
 theme: jekyll-theme-cayman
-{{ site.title }}: Chen Wu
+name: Chen Wu
+description: Institute of Computing Technology, Chinese Academy of Sciences
